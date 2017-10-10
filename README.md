@@ -1,5 +1,5 @@
 # Pokemon Battle: Charmander vs Pikachu 
-A working version of a Pokemon Battle between Charmander and Pikachu. 
+A working version of a Pokemon Battle between Charmander and Pikachu that I made using JavaScript popup boxes.
 
 ## Demo
 https://guanwei.turboqq.com/pokemon-battle 
